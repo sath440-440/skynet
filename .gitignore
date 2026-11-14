@@ -1,0 +1,19 @@
+# Code Composer Studio
+Debug/
+Release/
+.settings/
+*.out
+*.obj
+
+# React Native
+node_modules/
+.expo/
+
+# KiCad / Altium backups
+*-backups/
+History/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
